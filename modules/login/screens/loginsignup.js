@@ -119,7 +119,7 @@ export const SignupTab = () => {
         />
       </View>
       <Button
-        title="Sign Up"
+        title="Sign Upa"
         loading={api.loading === "pending"}
         onPress={onSignupPress}
       />
